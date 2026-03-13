@@ -1,9 +1,8 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare
 
+The goal of the Bikeshare project is to use Python to explore data related to bike share systems. It includes one Python file and one or more .csv data files.
 
-# Project Title
-
-Describe what your project is about and what it does
+The project lets you analyze US bikeshare data for selected cities. You can filter the data by city, month, and day of the week, and then view insights on travel times, popular stations, trip durations, and user demographics.
 
 ## Information about how to use your project
 
