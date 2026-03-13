@@ -4,14 +4,91 @@ The goal of the Bikeshare project is to use Python to explore data related to bi
 
 The project lets you analyze US bikeshare data for selected cities. You can filter the data by city, month, and day of the week, and then view insights on travel times, popular stations, trip durations, and user demographics.
 
-## Information about how to use your project
+## How to use this project
 
-This could include:
+### Requirements and dependencies
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+Before running the project, make sure you have:
+
+- Python 3.7+
+- pip (Python package manager)
+
+The install the required Python libraries using this command:
+
+`pip install pandas numpy`
+
+### Installation
+
+Clone or download the project folder from your repository:
+
+```
+git clone https://github.com/your-username/bikeshare-analysis.git
+cd bikeshare-analysis
+```
+
+### Running the program
+
+To start the program, run the following command in your terminal or command prompt:
+
+`python bikeshare_starter.py`
+
+Then you’ll be asked to enter:
+
+`City:`
+
+Choose one of the following: chicago, new york city, washington.
+
+`Month:`
+
+Filter data by a specific month from January to June, or type all to apply no filter: january, february, march, april, may, june, all.
+
+`Day:`
+
+Filter by a day of the week, or type all for no day filter: monday, tuesday, wednesday, thursday, friday, saturday, sunday, all.
+
+At the end of the analysis, you’ll be asked:
+
+`Would you like to restart? Enter yes or no.`
+
+Entering “yes” restarts the program; “no” exits.
+
+### Example use cases
+
+#### Example 1: Analyze All Data for Chicago
+
+```
+City: chicago
+Month: all
+Day: all
+```
+
+Output:
+
+Displays overall statistics for all months and days available in chicago.csv.
+
+#### Example 2: Analyze New York City in March
+
+```
+City: new york city
+Month: march
+Day: all
+```
+
+Output:
+
+Shows data filtered only for March rides in New York City.
+
+#### Example 3: Analyze Washington Data on Fridays in June
+
+```
+City: washington
+Month: june
+Day: friday
+```
+
+Output:
+
+Provides insights just for Friday rides during June.
 
 ## Contribution guidelines
 
