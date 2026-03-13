@@ -46,7 +46,8 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
+    print('WARNING: The load_data() function is not implemented yet. It will currently return an empty DataFrame.')
+    df = pd.DataFrame()
 
     return df
 
