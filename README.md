@@ -92,12 +92,12 @@ Provides insights just for Friday rides during June.
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+If you would like to contribute to this project, please contact the author at [author@server.country](mailto:author@server.country).
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was created to complete the ["Introduction to Version Control"](https://udacity.com/enrollment/cd0419) Udacity course. Starter code was provided by Udacity. Only the README file and minor improvements were added.
 
 ## Date created
 
-Include the date you created this project and README file.
+This project and README file were created on 12th March, 2026.
